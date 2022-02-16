@@ -25,7 +25,7 @@ description: "We begin this lecture at the end Paleozoic. Up to now, the tectoni
   \ are dominated by steady subduction of oceanic crust beneath continental curst\
   \ resulting in arc volcanism and back arc or marginal basins). Courtesy of Prof.\
   \ Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/ce2abff14028971bb16eec36194d5d08_lecture03_118jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/ce2abff14028971bb16eec36194d5d08_lecture03_118jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "We begin this lecture at the end Paleozoic. Up to now, the tectonic assemblage\
@@ -54,6 +54,10 @@ image_metadata:
     \ curst resulting in arc volcanism and back arc or marginal basins)."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Permian through Triassic development of Sonomian arc.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_118jpg.jpg
 uid: ce2abff1-4028-971b-b16e-ec36194d5d08

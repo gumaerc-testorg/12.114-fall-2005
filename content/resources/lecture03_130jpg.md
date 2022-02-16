@@ -5,7 +5,7 @@ description: This slide shows the different thicknesses of the sediments in the 
   to the front of the fold and thrust belt. In the south you can see the paleo-Gulf
   of Mexico. This extension extends barely northward into southern Arizona. Sedimentary
   deposits were thickest in the west and thinning to the east. Courtesy of Prof. Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/08d962cc949e415c3257dd01e50fe0a5_lecture03_130jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/08d962cc949e415c3257dd01e50fe0a5_lecture03_130jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This slide shows the different thicknesses of the sediments in the fore-deep
@@ -15,6 +15,10 @@ image_metadata:
     deposits were thickest in the west and thinning to the east.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Sediment thicknesses in foredeep.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_130jpg.jpg
 uid: 08d962cc-949e-415c-3257-dd01e50fe0a5

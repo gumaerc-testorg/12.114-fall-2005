@@ -8,7 +8,7 @@ description: "In this image we see the Robert\u2019s Mountain thrust contact up 
   \ by the deformation (the oldest age of the foredeep sediments). For the Roberts\
   \ Mountain thrust, we know that the fault was active over roughly 10 million years.\
   \ Image courtesy of Professor Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/ed2daad924df3d0896595389f8802594_lec3photo2.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/ed2daad924df3d0896595389f8802594_lec3photo2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this image we see the Robert\u2019s Mountain thrust contact up close.\
@@ -20,6 +20,10 @@ image_metadata:
     \ Mountain thrust, we know that the fault was active over roughly 10 million years."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Roberts Mountain thrust contact.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo2.jpg
 uid: ed2daad9-24df-3d08-9659-5389f8802594

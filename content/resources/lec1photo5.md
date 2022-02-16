@@ -9,7 +9,7 @@ description: "From the low angle of the shadows you can see we start early in th
   \ to one outcrop, but in the end you may end up getting excited and follow a feature\
   \ half way across the field area before you realize it is time for lunch and your\
   \ food is way back over there. Image courtesy of Professor Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/cc6bf88a84ce89f4d14f961084ac3d81_lec1photo5.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/cc6bf88a84ce89f4d14f961084ac3d81_lec1photo5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "From the low angle of the shadows you can see we start early in the day.\
@@ -23,6 +23,10 @@ image_metadata:
     \ food is way back over there."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Early morning camp wake-up.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo5.jpg
 uid: cc6bf88a-84ce-89f4-d14f-961084ac3d81

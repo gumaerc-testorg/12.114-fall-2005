@@ -9,7 +9,7 @@ description: As you move up through the oceanic crust, you leave the magma chamb
   middle of a previously intruded dike. The extension responsible for creating the
   fractures that the dikes travel up is due to the tectonic instability of the region
   adjacent to the mid-ocean ridge. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/3e7ccbc8fde21b1d17c02ddd13480078_lec3photo12.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/3e7ccbc8fde21b1d17c02ddd13480078_lec3photo12.jpg
 file_type: image/jpeg
 image_metadata:
   caption: As you move up through the oceanic crust, you leave the magma chamber and
@@ -23,6 +23,10 @@ image_metadata:
     region adjacent to the mid-ocean ridge.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Sheeted dike complex.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo12.jpg
 uid: 3e7ccbc8-fde2-1b1d-17c0-2ddd13480078

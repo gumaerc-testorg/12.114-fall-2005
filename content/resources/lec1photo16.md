@@ -2,13 +2,17 @@
 content_type: resource
 description: Here is an aerial view of the tents and camp. Again, you can see the
   good dome tents in the background. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/93f700a42885c55b33e6661c30fc281a_lec1photo16.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/93f700a42885c55b33e6661c30fc281a_lec1photo16.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Here is an aerial view of the tents and camp. Again, you can see the good
     dome tents in the background.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Aerial view of the camp.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo16.jpg
 uid: 93f700a4-2885-c55b-33e6-661c30fc281a

@@ -13,7 +13,7 @@ description: This next image portrays the timing of different depositional event
   the Havallah basin east of the arc and west of the developing Antler Mountain belt.
   This suggests there was no arc collision during Antler time. Image courtesy of Professor
   Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/1e00857a615993690c8ffebd19d67335_lec3photo16.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/1e00857a615993690c8ffebd19d67335_lec3photo16.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This next image portrays the timing of different depositional events around
@@ -30,6 +30,10 @@ image_metadata:
     belt. This suggests there was no arc collision during Antler time.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Antler orogeny event timeline.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo16.jpg
 uid: 1e00857a-6159-9369-0c8f-febd19d67335

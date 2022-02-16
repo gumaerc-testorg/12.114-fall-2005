@@ -6,7 +6,7 @@ description: Here are our tent-sites spread across the desert at one camp. Tents
   tent out from under its fly, and tumbled across the desert never to be found. We
   searched miles down wind and never found it. The sleeping bag was inside as well!
   Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/a32922631a24793ebfd5fcde30a00d93_lec1photo8.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/a32922631a24793ebfd5fcde30a00d93_lec1photo8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Here are our tent-sites spread across the desert at one camp. Tents MUST
@@ -17,6 +17,10 @@ image_metadata:
     well!
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Tents pitched in the desert.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo8.jpg
 uid: a3292263-1a24-793e-bfd5-fcde30a00d93

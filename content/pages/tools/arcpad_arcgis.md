@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: 7fdf7c21-b8e8-a177-1da0-484f47e67a7a
 title: A Guide to Using ArcPad and ArcGIS to Make Geological Maps
 uid: 27dc7a1b-aef3-3a7f-9161-ac875a9f7092

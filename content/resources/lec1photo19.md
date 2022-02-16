@@ -17,7 +17,7 @@ description: "Some Final Considerations: (Lectured with out slides)----------The
   \ will focus on our specific field region. We will work mostly out of the GSA Decade\
   \ of North American Geology (DNAG) which summarizes the tectonics of the western\
   \ US. Courtesy of TA Ben Crosby."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/391053fcc35a8e1e2be3412d53b39dd5_lec1photo19.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/391053fcc35a8e1e2be3412d53b39dd5_lec1photo19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Some Final Considerations: (Lectured with out slides)----------There are\
@@ -39,6 +39,10 @@ image_metadata:
     \ western US."
   credit: Courtesy of TA Ben Crosby.
   image-alt: A practice field trip in Field Geology 1.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo19.jpg
 uid: 391053fc-c35a-8e1e-2be3-412d53b39dd5

@@ -25,7 +25,7 @@ description: "In this image we see folded and deformed cherts that were deposite
   \ of near-vertical dikes. These dikes reach the surface and provide the magma erupted\
   \ at the ocean\u2019s floor as pillow basalts. Pelagic sediments form the top of\
   \ the oceanic crustal sequence. Image courtesy of Professor Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/c4376c90f6983af3c214452adf543af9_lec3photo14.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/c4376c90f6983af3c214452adf543af9_lec3photo14.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this image we see folded and deformed cherts that were deposited above\
@@ -55,6 +55,10 @@ image_metadata:
     \ sediments form the top of the oceanic crustal sequence."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Folded and deformed cherts.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo14.jpg
 uid: c4376c90-f698-3af3-c214-452adf543af9

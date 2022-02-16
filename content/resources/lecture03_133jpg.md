@@ -10,7 +10,7 @@ description: "In this image we can see the Cordilleran fold and thrust belt in C
   \ is a cross section of the antithetic thrust belt in Canada that involves the Paleozoic\
   \ sediments of the passive margin and young Mesozoic sediments. Courtesy of Prof.\
   \ Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/c247d68e89825b8557467238d13fe4a2_lecture03_133jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/c247d68e89825b8557467238d13fe4a2_lecture03_133jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this image we can see the Cordilleran fold and thrust belt in Canada.\
@@ -24,6 +24,10 @@ image_metadata:
     \ Paleozoic sediments of the passive margin and young Mesozoic sediments."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Canadian cordillera section.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_133jpg.jpg
 uid: c247d68e-8982-5b85-5746-7238d13fe4a2

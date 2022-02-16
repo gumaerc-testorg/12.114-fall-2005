@@ -6,7 +6,7 @@ description: We do our field work in the southwest United States in January. It 
   walking. As the regions we are mapping are often not accessible by car, we will
   walk in and out each day so it is important to be in good shape. Images courtesy
   of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/b899ef9ba2b7e809c93c929e0c88dd8b_lec1photo1.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/b899ef9ba2b7e809c93c929e0c88dd8b_lec1photo1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: We do our field work in the southwest United States in January. It is true
@@ -16,6 +16,10 @@ image_metadata:
     and out each day so it is important to be in good shape.
   credit: Images courtesy of Professor Burchfiel.
   image-alt: The field area.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo1.jpg
 uid: b899ef9b-a2b7-e809-c93c-929e0c88dd8b

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains instructions on Line Symbology.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/32bd648ebee5b14f0478ce82063e3869_linesymbols.pdf
+file: /media/courses/12-114-field-geology-i-fall-2005/32bd648ebee5b14f0478ce82063e3869_linesymbols.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: linesymbols.pdf
 uid: 32bd648e-bee5-b14f-0478-ce82063e3869

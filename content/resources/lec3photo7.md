@@ -4,7 +4,7 @@ description: In this image we see folded carbonates that were deposited west of 
   Antler Orogeny at the same time that that deformation was occurring. This suggests
   that there was no major continental or island arc collision that created the Antler
   Orogeny. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/a815ee04279cde7eefac65abfe337565_lec3photo7.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/a815ee04279cde7eefac65abfe337565_lec3photo7.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In this image we see folded carbonates that were deposited west of the
@@ -13,6 +13,10 @@ image_metadata:
     Orogeny.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Folded sediments.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo7.jpg
 uid: a815ee04-279c-de7e-efac-65abfe337565

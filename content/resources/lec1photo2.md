@@ -9,7 +9,7 @@ description: This is an image of the camp set-up. There is a cook tent in the ba
   be mapping groups that will also have roles in the kitchen. These will alternate
   day-to-day, but each group will have responsibilities to help in food preparation
   and in washing kitchen dishes. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/5ac87135220dc49668e1d66b481ea651_lec1photo2.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/5ac87135220dc49668e1d66b481ea651_lec1photo2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This is an image of the camp set-up. There is a cook tent in the background.
@@ -23,6 +23,10 @@ image_metadata:
     food preparation and in washing kitchen dishes.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Camp set-up.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo2.jpg
 uid: 5ac87135-220d-c496-68e1-d66b481ea651

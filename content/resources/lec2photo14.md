@@ -13,7 +13,7 @@ description: This image is a cross section demonstrating the two phases of depos
   be careful when we interpret cross sections, at the vertical exaggeration can be
   deceiving. You can see below the unexaggerated section. Image courtesy of Professor
   Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/9c7cddfaeb8d8b98e73c444b3f538242_lec2photo14.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/9c7cddfaeb8d8b98e73c444b3f538242_lec2photo14.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This image is a cross section demonstrating the two phases of deposition
@@ -30,6 +30,10 @@ image_metadata:
     can be deceiving. You can see below the unexaggerated section.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Cross-section of the passive margin.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo14.jpg
 uid: 9c7cddfa-eb8d-8b98-e73c-444b3f538242

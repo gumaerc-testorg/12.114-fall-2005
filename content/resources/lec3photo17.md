@@ -26,7 +26,7 @@ description: 'Three additional events are important during Mississippian-Permian
   demonstrating that the mountains created by these accretionary events were eroded
   away and subdued enough to have shallow marine rocks deposited over them. Image
   courtesy of Professor Burchfiel.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/4a21baa9daaf85ae3128851b9887b9a0_lec3photo17.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/4a21baa9daaf85ae3128851b9887b9a0_lec3photo17.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Three additional events are important during Mississippian-Permian time
@@ -57,6 +57,10 @@ image_metadata:
     shallow marine rocks deposited over them.'
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Mississipian-Permian.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo17.jpg
 uid: 4a21baa9-daaf-85ae-3128-851b9887b9a0

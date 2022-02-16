@@ -8,7 +8,7 @@ description: 'In this image, we see the part of the oceanic crust just above the
   and pinched at the base as they fill the convex space between those basalts already
   erupted. In the cordillera we can see portions of the Cambrian ocean floor. Image
   courtesy of Professor Burchfiel.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/588cc938ee53f3da6f82db33f38c6d27_lec3photo13.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/588cc938ee53f3da6f82db33f38c6d27_lec3photo13.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'In this image, we see the part of the oceanic crust just above the sheet
@@ -20,6 +20,10 @@ image_metadata:
     already erupted. In the cordillera we can see portions of the Cambrian ocean floor.'
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Pillow basalts.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo13.jpg
 uid: 588cc938-ee53-f3da-6f82-db33f38c6d27

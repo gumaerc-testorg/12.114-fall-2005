@@ -26,7 +26,7 @@ description: "In this image we can see a change in the behavior of the Arc envir
   \ steeply dipping to shallowly dipping, but research in northern Argentina (where\
   \ there is also shallow-slab subduction), may shed light on this process. Courtesy\
   \ of Prof. Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/fb078d8e24c35375129e57665303349e_lecture03_143jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/fb078d8e24c35375129e57665303349e_lecture03_143jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this image we can see a change in the behavior of the Arc environment.\
@@ -57,6 +57,10 @@ image_metadata:
     \ may shed light on this process."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Late Cretaceous-middle Eocene.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_143jpg.jpg
 uid: fb078d8e-24c3-5375-129e-57665303349e

@@ -5,7 +5,7 @@ description: Though these rocks are the source of the rocks that we traditionall
   temperatures and pressures where they are ductilly deformed. In this image, the
   bands that we see in this rock are due to ductile flow in the mantle adjacent to
   the mid-oceanic ridge. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/bda04718a635a8df26c7d7405020bb26_lec3photo10.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/bda04718a635a8df26c7d7405020bb26_lec3photo10.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Though these rocks are the source of the rocks that we traditionally think
@@ -15,6 +15,10 @@ image_metadata:
     ridge.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Metaigneous rocks.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo10.jpg
 uid: bda04718-a635-a8df-26c7-d7405020bb26

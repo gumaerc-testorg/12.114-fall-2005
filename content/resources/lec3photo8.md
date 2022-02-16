@@ -10,7 +10,7 @@ description: In this image we see the ashes and sediments associated with the la
   of material that we see is not the primary eruptive deposits but rather the materials
   eroded off the volcanic edifices. Thus they are mostly sedimentary deposits derived
   from volcanic materials. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/44a4b3f13aeedad31f66ed51cee2a659_lec3photo8.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/44a4b3f13aeedad31f66ed51cee2a659_lec3photo8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In this image we see the ashes and sediments associated with the late Paleozoic
@@ -25,6 +25,10 @@ image_metadata:
     deposits derived from volcanic materials.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Altered island arc ashes and sediments.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo8.jpg
 uid: 44a4b3f1-3aee-dad3-1f66-ed51cee2a659

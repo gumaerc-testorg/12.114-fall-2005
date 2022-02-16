@@ -15,7 +15,7 @@ description: "In these cross sections we compare the differences between the nor
   \ crust is dominantly thick, buoyant Precambrian crust, there is no back-arc extension\
   \ (as in the case in W NV) and instead, there are structures indicative of compression.\
   \ Courtesy of Prof. Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/c92fdfc09af923a5f490386db1d1d211_lecture03_119jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/c92fdfc09af923a5f490386db1d1d211_lecture03_119jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In these cross sections we compare the differences between the northwest\
@@ -35,6 +35,10 @@ image_metadata:
     \ structures indicative of compression."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Northwest and southwest continental margin.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_119jpg.jpg
 uid: c92fdfc0-9af9-23a5-f490-386db1d1d211

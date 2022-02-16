@@ -6,7 +6,7 @@ description: We will stay together as one big group on the first day. We will in
   independent groups. Instructors will rotate among the groups, but it will be ultimately
   up to you to figure out what is going on. The best way to learn field geology is
   just to get out there and do it. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/e3fe2b6c423166aba34cde74e3d842e5_lec1photo10.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/e3fe2b6c423166aba34cde74e3d842e5_lec1photo10.jpg
 file_type: image/jpeg
 image_metadata:
   caption: We will stay together as one big group on the first day. We will introduce
@@ -17,6 +17,10 @@ image_metadata:
     geology is just to get out there and do it.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Touring the field area on the first day.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo10.jpg
 uid: e3fe2b6c-4231-66ab-a34c-de74e3d842e5

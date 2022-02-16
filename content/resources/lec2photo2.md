@@ -10,7 +10,7 @@ description: This image depicts the two major tectonic provinces in western Nort
   On the Eastern half are the older passive margin sediments that were largely eroded
   from the eastern old part of North America and transported westward and deposited
   at the western edge of North America. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/7f9227b3599f5719cf0a066a63b63f95_lec2photo2.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/7f9227b3599f5719cf0a066a63b63f95_lec2photo2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This image depicts the two major tectonic provinces in western North America.
@@ -25,6 +25,10 @@ image_metadata:
     at the western edge of North America.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Two major tectonic provinces in NA.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo2.jpg
 uid: 7f9227b3-599f-5719-cf0a-066a63b63f95

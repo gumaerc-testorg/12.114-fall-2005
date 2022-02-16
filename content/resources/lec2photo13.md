@@ -26,7 +26,7 @@ description: This slide focuses on rocks of Cambrian to Late Devonian age (550-3
   this time are not preserved in place, but rather were (at a later time) structurally
   thrust up and over the nearshore marine rocks (this will be discussed shortly).
   Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/fa2425fb85f03c4b2ca5435ad7728587_lec2photo13.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/fa2425fb85f03c4b2ca5435ad7728587_lec2photo13.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This slide focuses on rocks of Cambrian to Late Devonian age (550-350ma).
@@ -57,6 +57,10 @@ image_metadata:
     up and over the nearshore marine rocks (this will be discussed shortly).
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Cambrian-Late Devonian.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo13.jpg
 uid: fa2425fb-85f0-3c4b-2ca5-435ad7728587

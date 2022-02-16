@@ -25,7 +25,7 @@ description: "This image shows the distribution of Precambrian rocks in North Am
   \ way that the Precambrian continent is broken off on the western edge that there\
   \ was rifting and the development of the passive margin sometime younger than 1\
   \ billion years. Image courtesy of Professor Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/669531de345f9551bbfd9ab4561def2f_lec2photo4.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/669531de345f9551bbfd9ab4561def2f_lec2photo4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "This image shows the distribution of Precambrian rocks in North America\
@@ -55,6 +55,10 @@ image_metadata:
     \ the passive margin sometime younger than 1 billion years."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Precambrian rock in NA.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo4.jpg
 uid: 669531de-345f-9551-bbfd-9ab4561def2f

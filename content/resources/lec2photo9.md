@@ -4,7 +4,7 @@ description: In this image, you can see the typical near shore or river environm
   where the sediments have well defined cross bedding and there are desiccation or
   mud cracks in the rock, suggesting subaerial exposure. Image courtesy of Professor
   Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/064761711e0e8b29819ace6cf8abdf44_lec2photo9.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/064761711e0e8b29819ace6cf8abdf44_lec2photo9.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In this image, you can see the typical near shore or river environment
@@ -12,6 +12,10 @@ image_metadata:
     or mud cracks in the rock, suggesting subaerial exposure.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Near shore/river sediment.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo9.jpg
 uid: 06476171-1e0e-8b29-819a-ce6cf8abdf44

@@ -12,7 +12,7 @@ description: In this image we see the layering of crystals that accumulate and p
   progressive trend toward cumulates that are more feldspar rich provides geologists
   with good right-way-up indicators, an important tool for geologists mapping in field
   areas with extensive deformation. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/98f6393de2deb632dfbd65b69705a3ab_lec3photo11.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/98f6393de2deb632dfbd65b69705a3ab_lec3photo11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In this image we see the layering of crystals that accumulate and precipitate
@@ -29,6 +29,10 @@ image_metadata:
     for geologists mapping in field areas with extensive deformation.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Magma chamber layering.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo11.jpg
 uid: 98f6393d-e2de-b632-dfbd-65b69705a3ab

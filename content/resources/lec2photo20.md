@@ -19,7 +19,7 @@ description: "The final part that we will discuss today has to do with the End D
   \ arcs are. Though the Antler Orogeny was due to the interaction of convergent activity\
   \ along the western edge of north America, it would not be the last. There are plenty\
   \ more to come! Image courtesy of Professor Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/44314356f7676867e3cbe5bb26b5175d_lec2photo20.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/44314356f7676867e3cbe5bb26b5175d_lec2photo20.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "The final part that we will discuss today has to do with the End Devonian\
@@ -43,6 +43,10 @@ image_metadata:
     \ There are plenty more to come!"
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Devonian-Early Mississippian.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo20.jpg
 uid: 44314356-f767-6867-e3cb-e5bb26b5175d

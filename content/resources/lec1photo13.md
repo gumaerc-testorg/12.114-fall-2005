@@ -12,7 +12,7 @@ description: "In this dark image you can see a group of geologists examining an 
   \ always straight-forward and there will be times when we are all confused together\
   \ and we will have to find the best explanation we can. Image courtesy of Professor\
   \ Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/6d8011f918f88ca9fe86f1bc0b583d17_lec1photo13.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/6d8011f918f88ca9fe86f1bc0b583d17_lec1photo13.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this dark image you can see a group of geologists examining an outcrop\u2026\
@@ -29,6 +29,10 @@ image_metadata:
     \ we can."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Students and teachers puzzling over an outcrop.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo13.jpg
 uid: 6d8011f9-18f8-8ca9-fe86-f1bc0b583d17

@@ -8,7 +8,7 @@ description: In a lot of geologic thinking, we too often expect compressional de
   northwest, commensurate with the interaction between the subducting oceanic crust
   and North America. The magnitude of the displacements on these structures is hotly
   debated to this day. Courtesy of Prof. Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/41248e5d2f8cb22edaa9f4d213b149a5_lecture03_141jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/41248e5d2f8cb22edaa9f4d213b149a5_lecture03_141jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In a lot of geologic thinking, we too often expect compressional deformation
@@ -21,6 +21,10 @@ image_metadata:
     is hotly debated to this day.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Lateral tectonic movement in the Cordillera.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_141jpg.jpg
 uid: 41248e5d-2f8c-b22e-daa9-f4d213b149a5

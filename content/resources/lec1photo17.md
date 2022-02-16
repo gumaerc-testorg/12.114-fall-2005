@@ -4,7 +4,7 @@ description: This is why we do work in the desert! Great exposure! In New Englan
   there are trees and soils and brush that obscure 80% of the ground. In the desert
   there is ~100% exposure. Structure and rocks are well exposed and visible to be
   mapped. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/839de41ea7d6e2e283772eb08121d378_lec1photo17.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/839de41ea7d6e2e283772eb08121d378_lec1photo17.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This is why we do work in the desert! Great exposure! In New England there
@@ -12,6 +12,10 @@ image_metadata:
     is ~100% exposure. Structure and rocks are well exposed and visible to be mapped.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Not much vegetation in the desert.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo17.jpg
 uid: 839de41e-a7d6-e2e2-8377-2eb08121d378

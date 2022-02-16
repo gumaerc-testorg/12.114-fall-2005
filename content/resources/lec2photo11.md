@@ -16,7 +16,7 @@ description: "In the lowest part of the passive margin sediments you see rocks l
   \ period in the late Proterozoic, then we can bracket the initiation of sedimentation\
   \ somewhere between 650 and 600 ma. This image is from Canada. Image courtesy of\
   \ Professor Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/d892336b9b31337cb6409281de3e199b_lec2photo11.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/d892336b9b31337cb6409281de3e199b_lec2photo11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In the lowest part of the passive margin sediments you see rocks like\
@@ -37,6 +37,10 @@ image_metadata:
     \ is from Canada)"
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Diamictite.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo11.jpg
 uid: d892336b-9b31-337c-b640-9281de3e199b

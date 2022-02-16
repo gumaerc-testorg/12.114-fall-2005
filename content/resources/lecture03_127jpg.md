@@ -12,7 +12,7 @@ description: "We now consider the time between the middle Jurassic (Jr) and the 
   \ does not extend south to the Mojave region. The situation in Canada is different\u2014\
   arc collisions continue into the Cretaceous and the subduction zone and its associated\
   \ magmatic arc migrate to the west. Courtesy of Prof. Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/b0b8dba137d1756b27610188ae3d2bfc_lecture03_127jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/b0b8dba137d1756b27610188ae3d2bfc_lecture03_127jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "We now consider the time between the middle Jurassic (Jr) and the late\
@@ -29,6 +29,10 @@ image_metadata:
     \ the subduction zone and its associated magmatic arc migrate to the west."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Middle Jurassic-late Cretaceous.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_127jpg.jpg
 uid: b0b8dba1-37d1-756b-2761-0188ae3d2bfc

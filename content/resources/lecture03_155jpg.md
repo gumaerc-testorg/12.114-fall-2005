@@ -8,7 +8,7 @@ description: This image shows all the basin and range faults. You can see the re
   leading to the formation of the San Andreas fault system and parallel faults across
   the ~500 km of western N.A. Remnants of the Farallon plate are present off northwest
   U.S. and southern Mexico. Courtesy of Prof. Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/2bc890cef46ba339f12fc1be48fa69a9_lecture03_155jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/2bc890cef46ba339f12fc1be48fa69a9_lecture03_155jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This image shows all the basin and range faults. You can see the releasing
@@ -21,6 +21,10 @@ image_metadata:
     off northwest U.S. and southern Mexico.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Cenozoic extensional structures.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_155jpg.jpg
 uid: 2bc890ce-f46b-a339-f12f-c1be48fa69a9

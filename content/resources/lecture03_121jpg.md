@@ -4,7 +4,7 @@ description: "In this image we can see the m\xE9lange rocks that were scraped of
   \ the subducting oceanic crust and accumulated in accretionary wedges at the subduction\
   \ zone present all along western North America following the Sonoma orogeny. Courtesy\
   \ of Prof. Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/9f4ef8ea5e4cc1508ae670ba65d4440c_lecture03_121jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/9f4ef8ea5e4cc1508ae670ba65d4440c_lecture03_121jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this image we can see the m\xE9lange rocks that were scraped off the\
@@ -12,6 +12,10 @@ image_metadata:
     \ zone present all along western North America following the Sonoma orogeny."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Melange rocks.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_121jpg.jpg
 uid: 9f4ef8ea-5e4c-c150-8ae6-70ba65d4440c

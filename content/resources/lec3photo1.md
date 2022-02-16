@@ -21,7 +21,7 @@ description: In this lecture we return to the Late Devonian/ Early Mississippian
   that have traveled great distances (during transport, other minerals are eroded
   away, weathered or deposited, leaving quartz grains preferentially carried over
   large distances). Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/13f725afb9b09492e08fd46fccb2f33c_lec3photo1.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/13f725afb9b09492e08fd46fccb2f33c_lec3photo1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In this lecture we return to the Late Devonian/ Early Mississippian to
@@ -47,6 +47,10 @@ image_metadata:
     carried over large distances).
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Thrusted sediments from the Antler marine basin.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 6 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec3photo1.jpg
 uid: 13f725af-b9b0-9492-e08f-d46fccb2f33c

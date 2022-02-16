@@ -18,7 +18,7 @@ description: This map shows the actual outcrop distribution of Precambrian rocks
   associated with the rifting along the western edge of NA before the passive margin
   development at a later (~600-680 m.y.) time. Still, the Belt Group remains a big
   mystery. Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/b86a4dd13c56f6fc8e263fb2fa123363_lec2photo5.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/b86a4dd13c56f6fc8e263fb2fa123363_lec2photo5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This map shows the actual outcrop distribution of Precambrian rocks in
@@ -31,7 +31,7 @@ image_metadata:
     NA, but can be interpreted to be the first sediments deposited near the passive
     margin. We will discuss these more with some slides to come. In the north here
     you can see a huge outcrop of older rocks, the Belt Group. They are 1.5 by to
-    <1 b.y. old. The Belt rocks are still a big puzzle because (1) the western half
+    \<1 b.y. old. The Belt rocks are still a big puzzle because (1) the western half
     are heavily metamorphosed and difficult to interpret and (2) they are also a super-thick
     pile of sediment, up to 15 kilometers! How is this possible? We know that the
     only way that this was possible was that the crust was extremely thin so that
@@ -41,6 +41,10 @@ image_metadata:
     Still, the Belt Group remains a big mystery.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Precambrian rock outcrops in NA.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo5.jpg
 uid: b86a4dd1-3c56-f6fc-8e26-3fb2fa123363

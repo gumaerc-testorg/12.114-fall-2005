@@ -4,7 +4,7 @@ description: These are the old tents. Though large they got knocked over frequen
   in then nightly winds. We have a set of 4x4 field vehicles that we use for moving
   students between their daily field mapping areas and the camp. Image courtesy of
   Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/7e6f0bb8fd930f4e833cbc03ec7b6dc0_lec1photo6.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/7e6f0bb8fd930f4e833cbc03ec7b6dc0_lec1photo6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: These are the old tents. Though large they got knocked over frequently
@@ -12,6 +12,10 @@ image_metadata:
     students between their daily field mapping areas and the camp.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Old tents and truck.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 3 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec1photo6.jpg
 uid: 7e6f0bb8-fd93-0f4e-833c-bc03ec7b6dc0

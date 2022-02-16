@@ -4,7 +4,7 @@ description: "This is another image of m\xE9lange. As you can see the rocks are 
   \ deformed, sheared and folded. Only a mother could love these rocks. Within the\
   \ m\xE9lange, we find mixed exotic fossils including those of both North American\
   \ and Asian affinity. Courtesy of Prof. Burchfiel."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/d2c254813dbd4873def6c0562c6fcaf5_lecture03_122jpg.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/d2c254813dbd4873def6c0562c6fcaf5_lecture03_122jpg.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "This is another image of m\xE9lange. As you can see the rocks are highly\
@@ -13,6 +13,10 @@ image_metadata:
     \ and Asian affinity."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Melange rocks.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 7 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lecture03_122jpg.jpg
 uid: d2c25481-3dbd-4873-def6-c0562c6fcaf5

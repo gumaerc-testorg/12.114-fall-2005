@@ -4,7 +4,7 @@ description: This image shows that the accretionary part of north America is act
   composed of a large number of individual terranes. We will go into their origin
   and translation to their current position in future lectures. Image courtesy of
   Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/847af4fc5f6501438eae78a7975eb187_lec2photo3.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/847af4fc5f6501438eae78a7975eb187_lec2photo3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This image shows that the accretionary part of north America is actually
@@ -12,6 +12,10 @@ image_metadata:
     and translation to their current position in future lectures.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Accretionary part of NA.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo3.jpg
 uid: 847af4fc-5f65-0143-8eae-78a7975eb187

@@ -6,7 +6,7 @@ description: This slide shows those distal rocks that were deposited during phas
   the sedimentation rate because during orogeny the rocks were highly deformed and
   imbricated like cards to that there is a great deal of repeated section. Image courtesy
   of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/93a8a397a73bdd66bae919791d254cf8_lec2photo17.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/93a8a397a73bdd66bae919791d254cf8_lec2photo17.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This slide shows those distal rocks that were deposited during phase two,
@@ -16,6 +16,10 @@ image_metadata:
     cards to that there is a great deal of repeated section.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Distal rocks.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo17.jpg
 uid: 93a8a397-a73b-dd66-bae9-19791d254cf8

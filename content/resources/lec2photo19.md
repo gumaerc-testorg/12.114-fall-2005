@@ -6,7 +6,7 @@ description: And this slide is in here just to show that though I may present a 
   just don't understand where they were deposited. All the deformation and accretion
   leave the rock record in a state where deciphering what happened when is never easy.
   Image courtesy of Professor Burchfiel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-114-field-geology-i-fall-2005/5b5f8118116c9e892f8e0eb69a88ab1e_lec2photo19.jpg
+file: /media/courses/12-114-field-geology-i-fall-2005/5b5f8118116c9e892f8e0eb69a88ab1e_lec2photo19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: And this slide is in here just to show that though I may present a relatively
@@ -17,6 +17,10 @@ image_metadata:
     easy.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Quartzite.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lecture 4 Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: lec2photo19.jpg
 uid: 5b5f8118-116c-9e89-2f8e-0eb69a88ab1e
