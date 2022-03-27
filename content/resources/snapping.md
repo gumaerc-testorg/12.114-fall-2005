@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 7fdf7c21-b8e8-a177-1da0-484f47e67a7a
 resourcetype: Document
 title: snapping.pdf
 uid: 353a3e42-79fe-6474-203e-07d9849da1ed

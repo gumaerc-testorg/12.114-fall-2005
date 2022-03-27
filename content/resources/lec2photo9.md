@@ -16,6 +16,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo9.jpg
 uid: 06476171-1e0e-8b29-819a-ce6cf8abdf44

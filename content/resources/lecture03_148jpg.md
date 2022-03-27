@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_148jpg.jpg
 uid: a0bb0198-042e-0038-e662-0825a607a6fa

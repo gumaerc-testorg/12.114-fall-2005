@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 7fdf7c21-b8e8-a177-1da0-484f47e67a7a
 resourcetype: Document
 title: exercise3.pdf
 uid: 1b61b72d-ce0c-7f23-0947-52324749ea26

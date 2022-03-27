@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 582a1aaa-9cb2-e546-3f07-6072de02e782
 resourcetype: Document
 title: southard_tours.pdf
 uid: 136e6d91-cb8c-492a-5adc-397e3d6e46b9

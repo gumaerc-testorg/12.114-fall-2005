@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lecture 6 Image Gallery
 parent_type: CourseSection
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo3.jpg
 uid: 33cee694-7002-9189-aa58-597c3bec04dc

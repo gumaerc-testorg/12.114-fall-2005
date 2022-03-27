@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 7fdf7c21-b8e8-a177-1da0-484f47e67a7a
 resourcetype: Document
 title: pointsymbols.pdf
 uid: a7c682b6-166c-8f84-f98f-0bb4f86b9166
