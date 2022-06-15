@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains instructions on Snapping.
-file: /media/courses/12-114-field-geology-i-fall-2005/353a3e4279fe6474203e07d9849da1ed_snapping.pdf
+file: /courses/12-114-field-geology-i-fall-2005/353a3e4279fe6474203e07d9849da1ed_snapping.pdf
 file_type: application/pdf
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Document
 title: snapping.pdf
 uid: 353a3e42-79fe-6474-203e-07d9849da1ed
 ---
+This resource contains instructions on Snapping.
+
