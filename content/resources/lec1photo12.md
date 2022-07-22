@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Campers examining a rock face.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lec1photo12.jpg
 uid: 9e7a5f88-e6af-37f2-d131-083693ee8344
 ---
 Here you see a party of two mapping together, collecting data and discussing it. Image courtesy of Professor Burchfiel.
-

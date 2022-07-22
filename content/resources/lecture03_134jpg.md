@@ -14,6 +14,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Keystone Thrust near Las Vegas.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -23,4 +24,3 @@ title: lecture03_134jpg.jpg
 uid: 2d566635-7753-bfc7-59f5-94153f3d1be4
 ---
 In this image you are looking west at the basal detachment of the fold and thrust belt where the fault is relatively parallel to the stratigraphy. In this image of the Keystone Thrust near Las Vegas, Cambrian limestones are thrust over Jurassic sandstones. Courtesy of Prof. Burchfiel.
-

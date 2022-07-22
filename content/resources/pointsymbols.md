@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/a7c682b6166c8f84f98f0bb4f86b9166
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pointsymbols.pdf
 uid: a7c682b6-166c-8f84-f98f-0bb4f86b9166
 ---
 This resource contains instructions on Symbology for Point Data.
-

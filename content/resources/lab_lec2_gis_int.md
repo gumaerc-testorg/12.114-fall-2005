@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/90f1bf9a5688ba333f1a9d9e108eee35
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab_lec2_gis_int.pdf
 uid: 90f1bf9a-5688-ba33-3f1a-9d9e108eee35
 ---
 This resource is a supplement for lab 2.
-

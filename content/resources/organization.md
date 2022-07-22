@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/d9256a95df65a0fd51561ca2c1c30759
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: organization.pdf
 uid: d9256a95-df65-a0fd-5156-1ca2c1c30759
 ---
 This resource contains a note on organization.
-

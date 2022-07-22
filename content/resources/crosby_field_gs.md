@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/496a156c069e399e595336c09c2bb130
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: crosby_field_gs.pdf
 uid: 496a156c-069e-399e-5953-36c09c2bb130
 ---
 This resource contains a field book example by Crosby.
-

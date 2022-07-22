@@ -13,6 +13,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Deep-water silicious chert.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: lecture03_123jpg.jpg
 uid: fb5c3d27-2f6c-40c1-07bc-879fae819549
 ---
 This image shows some of the coherent oceanic sediments found in the accretionary wedge. These are deep-water silicious cherts. Again, in these rocks we find mixed exotic fossils including those of both North American and those of Asian affinity. Courtesy of Prof. Burchfiel.
-

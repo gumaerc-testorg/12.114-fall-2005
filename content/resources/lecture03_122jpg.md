@@ -14,6 +14,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Melange rocks.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -23,4 +24,3 @@ title: lecture03_122jpg.jpg
 uid: d2c25481-3dbd-4873-def6-c0562c6fcaf5
 ---
 This is another image of mélange. As you can see the rocks are highly deformed, sheared and folded. Only a mother could love these rocks. Within the mélange, we find mixed exotic fossils including those of both North American and Asian affinity. Courtesy of Prof. Burchfiel.
-

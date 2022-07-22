@@ -13,6 +13,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Morning discussions.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: lec1photo4.jpg
 uid: 02302f50-e00e-314d-c5ec-a41243b99bc7
 ---
 We will often have discussions in the morning that will cover what we are doing each day in the field. Instructors or mapping teams will let the others know how their work is progressing and what to think about during the day. Image courtesy of Professor Burchfiel.
-

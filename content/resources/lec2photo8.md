@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Folded shallow marine sediments.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: lec2photo8.jpg
 uid: 4845ee2a-c08e-bd8e-6dcc-7626d6a9a7d7
 ---
 In this image you see folded shallow marine sediments. This is from the first phase when the rate of subsidence was matched by the rate of sedimentation. Image courtesy of Professor Burchfiel.
-

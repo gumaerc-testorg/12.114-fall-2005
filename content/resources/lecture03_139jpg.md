@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Conglomerate deposits.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lecture03_139jpg.jpg
 uid: ac5607d5-4cb0-2327-4dfe-70ecfe0688c7
 ---
 These coarse conglomerate deposits are located in close proximity to the thrust front. Courtesy of Prof. Burchfiel.
-

@@ -16,6 +16,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Permo-triassic and Sonoma Fronts.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -25,4 +26,3 @@ title: lecture03_120jpg.jpg
 uid: d7fcb406-cb82-0541-9072-33c2af9df062
 ---
 In this image we can see in the North the Sonoma orogen bounded on the East by the Sonoma thrust front. In the SW you can see the beginning of the arc intrusions above the east dipping subduction. The Permo-Triassic Front shown by the dashed line is the eastern extent of the compressional deformation occurring contemporaneously with the subduction. Courtesy of Prof. Burchfiel.
-

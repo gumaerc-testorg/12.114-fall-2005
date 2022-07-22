@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Stromatolitic limestone.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: lec2photo10.jpg
 uid: 06cbc9d7-986b-2e3c-d250-b726d852338e
 ---
 In this image you can see a stromatolitic limestone that would represent an algal mat community that probably existed a little ways offshore. Image courtesy of Professor Burchfiel.
-

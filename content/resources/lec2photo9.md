@@ -13,6 +13,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Near shore/river sediment.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: lec2photo9.jpg
 uid: 06476171-1e0e-8b29-819a-ce6cf8abdf44
 ---
 In this image, you can see the typical near shore or river environment where the sediments have well defined cross bedding and there are desiccation or mud cracks in the rock, suggesting subaerial exposure. Image courtesy of Professor Burchfiel.
-

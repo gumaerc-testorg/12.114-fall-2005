@@ -12,6 +12,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Diamictite.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: lec2photo12.jpg
 uid: e06951bf-c9ff-64d6-1913-967e70175201
 ---
 This image is of the equivalent basal diamictite but in southern California…suggesting that the glaciation was laterally extensive (if not continuous) across western North America. Image courtesy of Professor Burchfiel.
-

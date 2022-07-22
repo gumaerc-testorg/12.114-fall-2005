@@ -17,6 +17,7 @@ image_metadata:
   credit: Images courtesy of Professor Burchfiel.
   image-alt: The field area.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -26,4 +27,3 @@ title: lec1photo1.jpg
 uid: b899ef9b-a2b7-e809-c93c-929e0c88dd8b
 ---
 We do our field work in the southwest United States in January. It is true that there is snow in the high mountains in the desert at that time but we will not work that high. We try to work in snow-free regions. There is a lot of walking. As the regions we are mapping are often not accessible by car, we will walk in and out each day so it is important to be in good shape. Images courtesy of Professor Burchfiel.
-

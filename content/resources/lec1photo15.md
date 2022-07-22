@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Trip to Death Valley.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lec1photo15.jpg
 uid: 08e2a304-9066-a57e-1899-ae0f96977643
 ---
 This is another image from that Death Valley side-trip. These trips build on your regional understanding. Image courtesy of Professor Burchfiel.
-

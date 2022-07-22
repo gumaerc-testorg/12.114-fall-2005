@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Arc volcanics above seafloor sediments.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 6 Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lec3photo15.jpg
 uid: 5c202609-7f56-e295-1ad7-ffb6a4e7627b
 ---
 In this image, we see some of those arc volcanics deposited above seafloor sediments. Image courtesy of Professor Burchfiel.
-

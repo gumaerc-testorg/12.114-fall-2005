@@ -18,6 +18,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Death Valley.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -27,4 +28,3 @@ title: lec2photo16.jpg
 uid: e040b7ec-1505-c10b-7b47-92da115b03f7
 ---
 This image is from Death Valley, well west of the hinge line. The pile of Cambrian sediments here are ~3000 meters of carbonate rocks are represent only a small portion of the rocks that represent the same time period we just looked at in the Grand Canyon. While in the east the sequence is ~200 meters thick, the same sequence in the west is greater than up to 10,000 meters thick! This is what subsidence can do! Image courtesy of Professor Burchfiel.
-

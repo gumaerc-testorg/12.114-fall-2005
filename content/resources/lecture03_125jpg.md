@@ -14,6 +14,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Oceanic assemblages.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -23,4 +24,3 @@ title: lecture03_125jpg.jpg
 uid: 0b1947c5-8b87-8d4a-3f02-606d910757d2
 ---
 This is another image showing the accretionary wedge material in blue. The black spots are areas of oceanic crust or partial ophiolite sequences. This material confirms that there was persistent Andean-style Arc subduction along the western edge of NA during early Mesozoic time. Courtesy of Prof. Burchfiel.
-

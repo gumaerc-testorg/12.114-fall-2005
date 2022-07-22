@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: A possible young analog for the Antler Orogeny.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 6 Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lec3photo3.jpg
 uid: 33cee694-7002-9189-aa58-597c3bec04dc
 ---
 A possible young analog for the Antler Orogeny. Image courtesy of Professor Burchfiel.
-

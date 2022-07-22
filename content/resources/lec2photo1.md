@@ -12,6 +12,7 @@ image_metadata:
   credit: Courtesy of USGS.
   image-alt: Two major tectonic provinces in NA.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: lec2photo1.jpg
 uid: c5c8126a-c1a2-bd40-355e-a25c61820e79
 ---
 Geologic map of North America. On the west side of North America, adjacent to the Pacific Ocean, is the Cordilleran Mountain Chain, the main focus of our regional geological discussions. Courtesy of USGS.
-

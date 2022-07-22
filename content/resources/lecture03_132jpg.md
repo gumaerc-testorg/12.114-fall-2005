@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Yosemite intrusive rocks.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lecture03_132jpg.jpg
 uid: ad12482b-bb8a-086c-97cf-1b1b75afb328
 ---
 In this image you can see the arc intrusive rocks well exposed in Yosemite Valley in California. Courtesy of Prof. Burchfiel.
-

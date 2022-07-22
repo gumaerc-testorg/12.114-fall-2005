@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/8ef0db0ed656c7638131f6a5a159494d
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mapsmith.pdf
 uid: 8ef0db0e-d656-c763-8131-f6a5a159494d
 ---
 This resource contains instructions on installing mapsmith.
-

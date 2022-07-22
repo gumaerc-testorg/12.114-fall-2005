@@ -11,6 +11,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Block uplifts of Precambrian basement.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: lecture03_145jpg.jpg
 uid: e87fb8d2-1cfb-97e9-f0d5-0307ec90a7bc
 ---
 In this image you can see the Block uplifts of Precambrian basement with Paleozoic sediments draped up and over the blocks in the Wyoming Rocky Mountains. Courtesy of Prof. Burchfiel.
-

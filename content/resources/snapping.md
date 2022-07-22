@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/353a3e4279fe6474203e07d9849da1ed
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: snapping.pdf
 uid: 353a3e42-79fe-6474-203e-07d9849da1ed
 ---
 This resource contains instructions on Snapping.
-

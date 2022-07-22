@@ -16,6 +16,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Present state of western North America.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -25,4 +26,3 @@ title: lecture03_156jpg.jpg
 uid: 123c8290-de23-7dac-5c30-8e6de21a3607
 ---
 In this final slide, you can see the present configuration of the western edge of NA. Arc volcanism continues in the Cascades above the subduction zone there. A hot-spot impinging on the crust has created the volcanism in the Snake River Plain that migrated eastward and presently drives deformation and high heat flow in and around Yellowstone. Courtesy of Prof. Burchfiel.
-

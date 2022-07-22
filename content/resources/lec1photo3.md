@@ -20,6 +20,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Map tent.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -29,4 +30,3 @@ title: lec1photo3.jpg
 uid: cfae833c-082c-8701-7c12-0fcaff26d078
 ---
 This is the map tent where we store the computers and the mapping equipment. It is where we will eat if the weather is bad but most of the time we will use this tent for doing the digital mapping work at night. We have generators and batteries for electricity but will use gas lanterns for light. These tents are high quality arctic tents and have served us well. We purchased them with gracious support from the Kaplan Foundation. There is a lot of wind in the desert, especially at night and, our old tents were knocked over frequently. Image courtesy of Professor Burchfiel.
-

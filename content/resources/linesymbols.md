@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/32bd648ebee5b14f0478ce82063e3869
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: linesymbols.pdf
 uid: 32bd648e-bee5-b14f-0478-ce82063e3869
 ---
 This resource contains instructions on Line Symbology.
-

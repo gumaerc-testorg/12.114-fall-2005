@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Sedimentary layers in the Belt group.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lec2photo6.jpg
 uid: ecc68495-cec9-9bb8-3dac-68260eaaddcc
 ---
 Here is an image of the unmetamorphosed portion of the Belt group. As you can see, they are a thick pile of sediments! Image courtesy of Professor Burchfiel.
-

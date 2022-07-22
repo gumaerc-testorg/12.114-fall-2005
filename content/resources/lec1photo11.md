@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: The camp from above.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: lec1photo11.jpg
 uid: 05488878-779a-3f31-bed4-bc8e3dc89278
 ---
 This is another image of a field camp. Again note the good strong dome tents. This may be an image from one of the Environmental Field camps. Image courtesy of Professor Burchfiel.
-

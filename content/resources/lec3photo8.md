@@ -26,6 +26,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Altered island arc ashes and sediments.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 6 Image Gallery
 parent_type: CourseSection
@@ -35,4 +36,3 @@ title: lec3photo8.jpg
 uid: 44a4b3f1-3aee-dad3-1f66-ed51cee2a659
 ---
 In this image we see the ashes and sediments associated with the late Paleozoic island arcs that have experienced epidote alteration. That is what gives them their blue-green color. Though these volcanically derived deposits were created at the same time as the Antler, there are no evidence of ashes or volcanic fragments in the Antler-related sediments, suggesting that the Arcs were still far away from the edge of North America during Antler time. -------------- An interesting thing to know about the sediments created in Arc Complexes is that most of the volume of material that we see is not the primary eruptive deposits but rather the materials eroded off the volcanic edifices. Thus they are mostly sedimentary deposits derived from volcanic materials. Image courtesy of Professor Burchfiel.
-

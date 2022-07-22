@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/a13c1d0cc8fda8df1b4c2ca9e9510817
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: draw_line.pdf
 uid: a13c1d0c-c8fd-a8df-1b4c-2ca9e9510817
 ---
 This resource contains the instructions on drawing a new line.
-

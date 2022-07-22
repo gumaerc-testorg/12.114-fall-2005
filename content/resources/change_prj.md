@@ -5,6 +5,7 @@ file: /courses/12-114-field-geology-i-fall-2005/d94c791d7ad77c456c2319fffa18798b
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: change_prj.pdf
 uid: d94c791d-7ad7-7c45-6c23-19fffa18798b
 ---
 This resource contains instructions on changing projections.
-

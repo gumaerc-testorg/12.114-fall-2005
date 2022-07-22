@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Sunset in the desert.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: lec1photo18.jpg
 uid: f22fda11-bc34-ed01-6afc-c706e6910c6b
 ---
 For all the hard work we do during the day, there are beautiful evenings that reward us at the end of the day. This image is of the moon at sunset. Image courtesy of Professor Burchfiel.
-

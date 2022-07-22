@@ -13,6 +13,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: A lecture in camp.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: lec1photo9.jpg
 uid: 4e1e11a5-a598-3c0b-3d9f-0df3239bc870
 ---
 Other instructors will often talk about different geologic topics: geomorphology, surface processes, mineralogy, tectonics, structure, geochemistry, etc… These will help guide your observations and work in the field. Image courtesy of Professor Burchfiel.
-

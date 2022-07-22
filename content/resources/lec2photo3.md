@@ -13,6 +13,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Accretionary part of NA.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 4 Image Gallery
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: lec2photo3.jpg
 uid: 847af4fc-5f65-0143-8eae-78a7975eb187
 ---
 This image shows that the accretionary part of north America is actually composed of a large number of individual terranes. We will go into their origin and translation to their current position in future lectures. Image courtesy of Professor Burchfiel.
-

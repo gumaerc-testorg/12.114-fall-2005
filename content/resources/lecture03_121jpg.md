@@ -13,6 +13,7 @@ image_metadata:
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Melange rocks.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 7 Image Gallery
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: lecture03_121jpg.jpg
 uid: 9f4ef8ea-5e4c-c150-8ae6-70ba65d4440c
 ---
 In this image we can see the mélange rocks that were scraped off the subducting oceanic crust and accumulated in accretionary wedges at the subduction zone present all along western North America following the Sonoma orogeny. Courtesy of Prof. Burchfiel.
-

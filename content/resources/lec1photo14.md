@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Trip to Death Valley.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 3 Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lec1photo14.jpg
 uid: 00ad2842-fbd6-6a67-06b1-70fe85a47b76
 ---
 When the weather gets bad (snowed-out or blow-out), we often go on field trips. This is one to Death Valley. Image courtesy of Professor Burchfiel.
-
