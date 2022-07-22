@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Related Resources section contains external links required for the understanding
+  of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 582a1aaa-9cb2-e546-3f07-6072de02e782
 ---
@@ -27,7 +31,7 @@ Nahant Beach: [Official Web site](https://essexheritage.org/attractions/lynnnaha
 
 World's End: [Official Web site](http://www.thetrustees.org/places-to-visit/south-of-boston/worlds-end.html)
 
-Local Geology Tour by MIT Professor, John Southard ([PDF]({{< baseurl >}}/resources/southard_tours))
+Local Geology Tour by MIT Professor, John Southard ({{% resource_link 136e6d91-cb8c-492a-5adc-397e3d6e46b9 "PDF" %}})
 
 ### Roxbury Conglomerate Exposures, Blue Hills for Map Reading Skills
 
@@ -35,4 +39,4 @@ Wellesley University Trip to the Roxbury Conglomerate
 
 [City of Newton Geology Page](https://www.newtonma.gov/government/planning/boards-commissions/conservation-commission/public-education-and-involvement/geology-of-newton)
 
-Local Geology Tour by MIT Professor, John Southard ([PDF]({{< baseurl >}}/resources/southard_tours))
+Local Geology Tour by MIT Professor, John Southard ({{% resource_link 136e6d91-cb8c-492a-5adc-397e3d6e46b9 "PDF" %}})
