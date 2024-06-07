@@ -27,6 +27,7 @@ description: This slide focuses on rocks of Cambrian to Late Devonian age (550-3
   thrust up and over the nearshore marine rocks (this will be discussed shortly).
   Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/fa2425fb85f03c4b2ca5435ad7728587_lec2photo13.jpg
+file_size: 43288
 file_type: image/jpeg
 image_metadata:
   caption: This slide focuses on rocks of Cambrian to Late Devonian age (550-350ma).

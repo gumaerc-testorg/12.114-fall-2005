@@ -19,6 +19,7 @@ description: This map shows the actual outcrop distribution of Precambrian rocks
   development at a later (~600-680 m.y.) time. Still, the Belt Group remains a big
   mystery. Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/b86a4dd13c56f6fc8e263fb2fa123363_lec2photo5.jpg
+file_size: 43554
 file_type: image/jpeg
 image_metadata:
   caption: This map shows the actual outcrop distribution of Precambrian rocks in

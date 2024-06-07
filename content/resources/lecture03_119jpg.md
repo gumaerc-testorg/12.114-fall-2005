@@ -16,6 +16,7 @@ description: "In these cross sections we compare the differences between the nor
   \ (as in the case in W NV) and instead, there are structures indicative of compression.\
   \ Courtesy of Prof. Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/c92fdfc09af923a5f490386db1d1d211_lecture03_119jpg.jpg
+file_size: 27871
 file_type: image/jpeg
 image_metadata:
   caption: "In these cross sections we compare the differences between the northwest\

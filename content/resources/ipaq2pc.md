@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains instructions on Transfering Data From Your iPAQ
   to Your PC.
 file: /courses/12-114-field-geology-i-fall-2005/8707afbf491d19cf647fd8c17808cec4_ipaq2pc.pdf
+file_size: 92513
 file_type: application/pdf
 learning_resource_types:
 - Tools

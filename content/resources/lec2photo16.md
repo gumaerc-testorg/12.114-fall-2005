@@ -7,6 +7,7 @@ description: This image is from Death Valley, well west of the hinge line. The p
   same sequence in the west is greater than up to 10,000 meters thick! This is what
   subsidence can do! Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/e040b7ec1505c10b7b4792da115b03f7_lec2photo16.jpg
+file_size: 56989
 file_type: image/jpeg
 image_metadata:
   caption: This image is from Death Valley, well west of the hinge line. The pile

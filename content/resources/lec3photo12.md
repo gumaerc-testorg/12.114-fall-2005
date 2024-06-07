@@ -10,6 +10,7 @@ description: As you move up through the oceanic crust, you leave the magma chamb
   fractures that the dikes travel up is due to the tectonic instability of the region
   adjacent to the mid-ocean ridge. Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/3e7ccbc8fde21b1d17c02ddd13480078_lec3photo12.jpg
+file_size: 72416
 file_type: image/jpeg
 image_metadata:
   caption: As you move up through the oceanic crust, you leave the magma chamber and

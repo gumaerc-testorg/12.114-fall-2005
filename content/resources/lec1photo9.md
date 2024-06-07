@@ -5,6 +5,7 @@ description: "Other instructors will often talk about different geologic topics:
   \ will help guide your observations and work in the field. Image courtesy of Professor\
   \ Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/4e1e11a5a5983c0b3d9f0df3239bc870_lec1photo9.jpg
+file_size: 54333
 file_type: image/jpeg
 image_metadata:
   caption: "Other instructors will often talk about different geologic topics: geomorphology,\

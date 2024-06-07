@@ -8,6 +8,7 @@ description: "These are the highly altered volcanic rocks of an island arc that 
   they are a geochemist\u2019s nightmare. Hats off to those who can do this work!\
   \ Image courtesy of Professor Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/ba0562fcd18c24e970eea6754c898224_lec2photo18.jpg
+file_size: 78405
 file_type: image/jpeg
 image_metadata:
   caption: "These are the highly altered volcanic rocks of an island arc that have\

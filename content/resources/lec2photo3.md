@@ -5,6 +5,7 @@ description: This image shows that the accretionary part of north America is act
   and translation to their current position in future lectures. Image courtesy of
   Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/847af4fc5f6501438eae78a7975eb187_lec2photo3.jpg
+file_size: 32977
 file_type: image/jpeg
 image_metadata:
   caption: This image shows that the accretionary part of north America is actually
