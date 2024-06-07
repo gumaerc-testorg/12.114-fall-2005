@@ -4,6 +4,7 @@ description: These thinly bedded, fine-grained tilted sedimentary deposits are t
   turbidite deposits found in the deepest portion of the foredeep. Courtesy of Prof.
   Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/21dfae5397400d0dc63227041d6dbd56_lecture03_138jpg.jpg
+file_size: 68737
 file_type: image/jpeg
 image_metadata:
   caption: These thinly bedded, fine-grained tilted sedimentary deposits are the turbidite

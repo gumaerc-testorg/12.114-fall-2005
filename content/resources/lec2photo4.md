@@ -26,6 +26,7 @@ description: "This image shows the distribution of Precambrian rocks in North Am
   \ was rifting and the development of the passive margin sometime younger than 1\
   \ billion years. Image courtesy of Professor Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/669531de345f9551bbfd9ab4561def2f_lec2photo4.jpg
+file_size: 59120
 file_type: image/jpeg
 image_metadata:
   caption: "This image shows the distribution of Precambrian rocks in North America\

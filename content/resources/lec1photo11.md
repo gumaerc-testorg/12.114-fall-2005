@@ -4,6 +4,7 @@ description: This is another image of a field camp. Again note the good strong d
   tents. This may be an image from one of the Environmental Field camps. Image courtesy
   of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/05488878779a3f31bed4bc8e3dc89278_lec1photo11.jpg
+file_size: 47102
 file_type: image/jpeg
 image_metadata:
   caption: This is another image of a field camp. Again note the good strong dome

@@ -13,6 +13,7 @@ description: In this slide, we see the location of the eastern limit of the arc-
   antithetic fold and thrust belt, but it is hard to locate where this might be happening.
   Courtesy of Prof. Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/a032339b7e22362b31f48481dfbde8c9_lecture03_140jpg.jpg
+file_size: 30849
 file_type: image/jpeg
 image_metadata:
   caption: In this slide, we see the location of the eastern limit of the arc-related

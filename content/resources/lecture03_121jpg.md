@@ -5,6 +5,7 @@ description: "In this image we can see the m\xE9lange rocks that were scraped of
   \ zone present all along western North America following the Sonoma orogeny. Courtesy\
   \ of Prof. Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/9f4ef8ea5e4cc1508ae670ba65d4440c_lecture03_121jpg.jpg
+file_size: 65834
 file_type: image/jpeg
 image_metadata:
   caption: "In this image we can see the m\xE9lange rocks that were scraped off the\

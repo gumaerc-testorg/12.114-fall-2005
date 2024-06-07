@@ -18,6 +18,7 @@ description: "Some Final Considerations: (Lectured with out slides)----------The
   \ of North American Geology (DNAG) which summarizes the tectonics of the western\
   \ US. Courtesy of TA Ben Crosby."
 file: /courses/12-114-field-geology-i-fall-2005/391053fcc35a8e1e2be3412d53b39dd5_lec1photo19.jpg
+file_size: 79894
 file_type: image/jpeg
 image_metadata:
   caption: "Some Final Considerations: (Lectured with out slides)----------There are\

@@ -5,6 +5,7 @@ description: This is another image showing the accretionary wedge material in bl
   material confirms that there was persistent Andean-style Arc subduction along the
   western edge of NA during early Mesozoic time. Courtesy of Prof. Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/0b1947c58b878d4a3f02606d910757d2_lecture03_125jpg.jpg
+file_size: 29954
 file_type: image/jpeg
 image_metadata:
   caption: This is another image showing the accretionary wedge material in blue.

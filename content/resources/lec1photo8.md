@@ -7,6 +7,7 @@ description: Here are our tent-sites spread across the desert at one camp. Tents
   searched miles down wind and never found it. The sleeping bag was inside as well!
   Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/a32922631a24793ebfd5fcde30a00d93_lec1photo8.jpg
+file_size: 58053
 file_type: image/jpeg
 image_metadata:
   caption: Here are our tent-sites spread across the desert at one camp. Tents MUST

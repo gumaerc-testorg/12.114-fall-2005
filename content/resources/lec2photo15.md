@@ -6,6 +6,7 @@ description: "Here is an image from the Grand Canyon. Remember, we are east of t
   \ section is only several hundred meters thick. Younger Mississippian rocks make\
   \ up the upper cliffs. Image courtesy of Professor Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/a9ad848ba2e7c90fe8e7abf9c9f0c66f_lec2photo15.jpg
+file_size: 63139
 file_type: image/jpeg
 image_metadata:
   caption: "Here is an image from the Grand Canyon. Remember, we are east of the hinge\

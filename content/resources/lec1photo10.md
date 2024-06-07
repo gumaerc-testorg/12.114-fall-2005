@@ -7,6 +7,7 @@ description: We will stay together as one big group on the first day. We will in
   up to you to figure out what is going on. The best way to learn field geology is
   just to get out there and do it. Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/e3fe2b6c423166aba34cde74e3d842e5_lec1photo10.jpg
+file_size: 45696
 file_type: image/jpeg
 image_metadata:
   caption: We will stay together as one big group on the first day. We will introduce

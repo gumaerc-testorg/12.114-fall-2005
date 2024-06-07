@@ -13,6 +13,7 @@ description: "We now consider the time between the middle Jurassic (Jr) and the 
   arc collisions continue into the Cretaceous and the subduction zone and its associated\
   \ magmatic arc migrate to the west. Courtesy of Prof. Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/b0b8dba137d1756b27610188ae3d2bfc_lecture03_127jpg.jpg
+file_size: 42329
 file_type: image/jpeg
 image_metadata:
   caption: "We now consider the time between the middle Jurassic (Jr) and the late\

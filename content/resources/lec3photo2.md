@@ -9,6 +9,7 @@ description: "In this image we see the Robert\u2019s Mountain thrust contact up 
   \ Mountain thrust, we know that the fault was active over roughly 10 million years.\
   \ Image courtesy of Professor Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/ed2daad924df3d0896595389f8802594_lec3photo2.jpg
+file_size: 70744
 file_type: image/jpeg
 image_metadata:
   caption: "In this image we see the Robert\u2019s Mountain thrust contact up close.\
