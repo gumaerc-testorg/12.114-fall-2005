@@ -5,6 +5,7 @@ description: In this image we see folded carbonates that were deposited west of 
   that there was no major continental or island arc collision that created the Antler
   Orogeny. Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/a815ee04279cde7eefac65abfe337565_lec3photo7.jpg
+file_size: 84881
 file_type: image/jpeg
 image_metadata:
   caption: In this image we see folded carbonates that were deposited west of the

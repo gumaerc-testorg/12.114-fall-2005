@@ -6,6 +6,7 @@ description: 'In this image we can see some of the elements we have discussed pr
   dark blue arc accretionary prism rocks west of the arc. Note the termination of
   all these tectonic elements in the southwest U.S. Courtesy of Prof. Burchfiel.'
 file: /courses/12-114-field-geology-i-fall-2005/8555b75793d414f44b255b247da63d6c_lecture03_124jpg.jpg
+file_size: 29417
 file_type: image/jpeg
 image_metadata:
   caption: 'In this image we can see some of the elements we have discussed previously:

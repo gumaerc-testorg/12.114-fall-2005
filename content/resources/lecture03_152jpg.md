@@ -12,6 +12,7 @@ description: This map view image of North America demonstrates that following th
   shear between the Farallon and North American plates also contributed to the extension
   that created the Basin and Range Province. Courtesy of Prof. Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/fee625c8802d010d940903f48ceab37d_lecture03_152jpg.jpg
+file_size: 42915
 file_type: image/jpeg
 image_metadata:
   caption: This map view image of North America demonstrates that following the Laramide

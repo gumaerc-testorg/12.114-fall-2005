@@ -6,6 +6,7 @@ description: This slide shows the different thicknesses of the sediments in the 
   of Mexico. This extension extends barely northward into southern Arizona. Sedimentary
   deposits were thickest in the west and thinning to the east. Courtesy of Prof. Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/08d962cc949e415c3257dd01e50fe0a5_lecture03_130jpg.jpg
+file_size: 34068
 file_type: image/jpeg
 image_metadata:
   caption: This slide shows the different thicknesses of the sediments in the fore-deep

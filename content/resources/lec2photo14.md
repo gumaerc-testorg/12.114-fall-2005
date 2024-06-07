@@ -14,6 +14,7 @@ description: This image is a cross section demonstrating the two phases of depos
   deceiving. You can see below the unexaggerated section. Image courtesy of Professor
   Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/9c7cddfaeb8d8b98e73c444b3f538242_lec2photo14.jpg
+file_size: 49901
 file_type: image/jpeg
 image_metadata:
   caption: This image is a cross section demonstrating the two phases of deposition

@@ -5,6 +5,7 @@ description: In this image you are looking west at the basal detachment of the f
   image of the Keystone Thrust near Las Vegas, Cambrian limestones are thrust over
   Jurassic sandstones. Courtesy of Prof. Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/2d5666357753bfc759f594153f3d1be4_lecture03_134jpg.jpg
+file_size: 62481
 file_type: image/jpeg
 image_metadata:
   caption: In this image you are looking west at the basal detachment of the fold

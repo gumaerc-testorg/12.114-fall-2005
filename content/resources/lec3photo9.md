@@ -6,6 +6,7 @@ description: In this image we see a student contemplating the rocks further west
   dunite (the olivine-rich mantle) and peridotite (olivine-pyroxene). Image courtesy
   of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/39e23290268877eeead7ba642ff5bbe3_lec3photo9.jpg
+file_size: 72503
 file_type: image/jpeg
 image_metadata:
   caption: In this image we see a student contemplating the rocks further west of

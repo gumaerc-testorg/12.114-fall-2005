@@ -10,6 +10,7 @@ description: "From the low angle of the shadows you can see we start early in th
   \ half way across the field area before you realize it is time for lunch and your\
   \ food is way back over there. Image courtesy of Professor Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/cc6bf88a84ce89f4d14f961084ac3d81_lec1photo5.jpg
+file_size: 69100
 file_type: image/jpeg
 image_metadata:
   caption: "From the low angle of the shadows you can see we start early in the day.\

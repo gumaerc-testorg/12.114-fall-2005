@@ -5,6 +5,7 @@ description: We will often have discussions in the morning that will cover what 
   know how their work is progressing and what to think about during the day. Image
   courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/02302f50e00e314dc5eca41243b99bc7_lec1photo4.jpg
+file_size: 50728
 file_type: image/jpeg
 image_metadata:
   caption: We will often have discussions in the morning that will cover what we are

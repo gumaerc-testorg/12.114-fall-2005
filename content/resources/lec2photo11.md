@@ -17,6 +17,7 @@ description: "In the lowest part of the passive margin sediments you see rocks l
   \ somewhere between 650 and 600 ma. This image is from Canada. Image courtesy of\
   \ Professor Burchfiel."
 file: /courses/12-114-field-geology-i-fall-2005/d892336b9b31337cb6409281de3e199b_lec2photo11.jpg
+file_size: 71767
 file_type: image/jpeg
 image_metadata:
   caption: "In the lowest part of the passive margin sediments you see rocks like\

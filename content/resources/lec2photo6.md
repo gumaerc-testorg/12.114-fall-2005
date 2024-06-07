@@ -3,6 +3,7 @@ content_type: resource
 description: Here is an image of the unmetamorphosed portion of the Belt group. As
   you can see, they are a thick pile of sediments! Image courtesy of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/ecc68495cec99bb83dac68260eaaddcc_lec2photo6.jpg
+file_size: 57273
 file_type: image/jpeg
 image_metadata:
   caption: Here is an image of the unmetamorphosed portion of the Belt group. As you

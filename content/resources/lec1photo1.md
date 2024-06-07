@@ -7,6 +7,7 @@ description: We do our field work in the southwest United States in January. It 
   walk in and out each day so it is important to be in good shape. Images courtesy
   of Professor Burchfiel.
 file: /courses/12-114-field-geology-i-fall-2005/b899ef9ba2b7e809c93c929e0c88dd8b_lec1photo1.jpg
+file_size: 46580
 file_type: image/jpeg
 image_metadata:
   caption: We do our field work in the southwest United States in January. It is true

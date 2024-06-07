@@ -9,6 +9,7 @@ description: 'In this image, we see the part of the oceanic crust just above the
   erupted. In the cordillera we can see portions of the Cambrian ocean floor. Image
   courtesy of Professor Burchfiel.'
 file: /courses/12-114-field-geology-i-fall-2005/588cc938ee53f3da6f82db33f38c6d27_lec3photo13.jpg
+file_size: 60385
 file_type: image/jpeg
 image_metadata:
   caption: 'In this image, we see the part of the oceanic crust just above the sheet
