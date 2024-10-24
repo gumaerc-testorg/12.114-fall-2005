@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the instructions on drawing a new line.
-file: /courses/12-114-field-geology-i-fall-2005/a13c1d0cc8fda8df1b4c2ca9e9510817_draw_line.pdf
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/a13c1d0cc8fda8df1b4c2ca9e9510817_draw_line.pdf
 file_size: 1693101
 file_type: application/pdf
 learning_resource_types:
