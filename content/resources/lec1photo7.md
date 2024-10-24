@@ -5,7 +5,7 @@ description: Here is another morning camp scene. You can see the coolers circled
   left of the cook tent is how we keep ourselves supplied. You will need to have adequate
   water bottles for during the day wile you are mapping. Image courtesy of Professor
   Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/ace96f7d6637360e8a8ba604a80938f3_lec1photo7.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/ace96f7d6637360e8a8ba604a80938f3_lec1photo7.jpg
 file_size: 54863
 file_type: image/jpeg
 image_metadata:

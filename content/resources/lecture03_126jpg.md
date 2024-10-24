@@ -10,7 +10,7 @@ description: "In this image, the purple, Star Peak basin is where the West Nevad
   \ origin, indicating Asiatic origin. The \u2018bs\u2019 signifies the location of\
   \ high pressure and low temperature metamorphic rocks characteristic of a subduction\
   \ environment. Courtesy of Prof. Burchfiel."
-file: /courses/12-114-field-geology-i-fall-2005/a13a1e4f42e454d04334855a51915382_lecture03_126jpg.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/a13a1e4f42e454d04334855a51915382_lecture03_126jpg.jpg
 file_size: 37450
 file_type: image/jpeg
 image_metadata:

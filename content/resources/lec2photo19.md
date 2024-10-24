@@ -6,7 +6,7 @@ description: And this slide is in here just to show that though I may present a 
   just don't understand where they were deposited. All the deformation and accretion
   leave the rock record in a state where deciphering what happened when is never easy.
   Image courtesy of Professor Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/5b5f8118116c9e892f8e0eb69a88ab1e_lec2photo19.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/5b5f8118116c9e892f8e0eb69a88ab1e_lec2photo19.jpg
 file_size: 75624
 file_type: image/jpeg
 image_metadata:
