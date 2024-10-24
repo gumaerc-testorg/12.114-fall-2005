@@ -3,7 +3,7 @@ content_type: resource
 description: This image, taken near Cody, Wyoming also shows the deformation associated
   with the Laramide orogeny. Here Precambrian rocks are thrust up and over Paleozoic
   rocks. Courtesy of Prof. Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/a710a8b1c98010ba56e136391f61426b_lecture03_146jpg.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/a710a8b1c98010ba56e136391f61426b_lecture03_146jpg.jpg
 file_size: 43976
 file_type: image/jpeg
 image_metadata:

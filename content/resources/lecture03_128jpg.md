@@ -2,7 +2,7 @@
 content_type: resource
 description: "In this image we see that the western margin of NA in CA today has outcropping\
   \ blocks of Cretaceous rock in m\xE9lange. Courtesy of Prof. Burchfiel."
-file: /courses/12-114-field-geology-i-fall-2005/030e735d7ec8c38ba28e262d2b4b1e00_lecture03_128jpg.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/030e735d7ec8c38ba28e262d2b4b1e00_lecture03_128jpg.jpg
 file_size: 59167
 file_type: image/jpeg
 image_metadata:

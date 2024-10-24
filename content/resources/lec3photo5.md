@@ -6,7 +6,7 @@ description: If we move west from the previous slide we see the continental marg
   are 5-6 km thick, but if you go east, out of the foredeep, toward the continentally
   derived sediments, you find for the same time period sediments that are 300-400m
   thick. Image courtesy of Professor Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/02279962eef7c88be5edcc3ab82e9ce5_lec3photo5.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/02279962eef7c88be5edcc3ab82e9ce5_lec3photo5.jpg
 file_size: 68454
 file_type: image/jpeg
 image_metadata:

@@ -21,7 +21,7 @@ description: In this lecture we return to the Late Devonian/ Early Mississippian
   that have traveled great distances (during transport, other minerals are eroded
   away, weathered or deposited, leaving quartz grains preferentially carried over
   large distances). Image courtesy of Professor Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/13f725afb9b09492e08fd46fccb2f33c_lec3photo1.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/13f725afb9b09492e08fd46fccb2f33c_lec3photo1.jpg
 file_size: 53449
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: In this image, we see some of those arc volcanics deposited above seafloor
   sediments. Image courtesy of Professor Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/5c2026097f56e2951ad7ffb6a4e7627b_lec3photo15.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/5c2026097f56e2951ad7ffb6a4e7627b_lec3photo15.jpg
 file_size: 74917
 file_type: image/jpeg
 image_metadata:
