@@ -7,7 +7,7 @@ description: "These are the highly altered volcanic rocks of an island arc that 
   \ rocks thrust up during the Antler Orogeny\u2026but these are tough to work in\u2026\
   they are a geochemist\u2019s nightmare. Hats off to those who can do this work!\
   \ Image courtesy of Professor Burchfiel."
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/ba0562fcd18c24e970eea6754c898224_lec2photo18.jpg
+file: /courses/12-114-field-geology-i-fall-2005/ba0562fcd18c24e970eea6754c898224_lec2photo18.jpg
 file_size: 78405
 file_type: image/jpeg
 image_metadata:

@@ -12,7 +12,7 @@ description: "In this dark image you can see a group of geologists examining an 
   \ always straight-forward and there will be times when we are all confused together\
   \ and we will have to find the best explanation we can. Image courtesy of Professor\
   \ Burchfiel."
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/6d8011f918f88ca9fe86f1bc0b583d17_lec1photo13.jpg
+file: /courses/12-114-field-geology-i-fall-2005/6d8011f918f88ca9fe86f1bc0b583d17_lec1photo13.jpg
 file_size: 41005
 file_type: image/jpeg
 image_metadata:

@@ -5,7 +5,7 @@ description: In this image we can see in the North the Sonoma orogen bounded on 
   intrusions above the east dipping subduction. The Permo-Triassic Front shown by
   the dashed line is the eastern extent of the compressional deformation occurring
   contemporaneously with the subduction. Courtesy of Prof. Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/d7fcb406cb820541907233c2af9df062_lecture03_120jpg.jpg
+file: /courses/12-114-field-geology-i-fall-2005/d7fcb406cb820541907233c2af9df062_lecture03_120jpg.jpg
 file_size: 38008
 file_type: image/jpeg
 image_metadata:

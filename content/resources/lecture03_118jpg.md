@@ -25,7 +25,7 @@ description: "We begin this lecture at the end Paleozoic. Up to now, the tectoni
   \ are dominated by steady subduction of oceanic crust beneath continental curst\
   \ resulting in arc volcanism and back arc or marginal basins). Courtesy of Prof.\
   \ Burchfiel."
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/ce2abff14028971bb16eec36194d5d08_lecture03_118jpg.jpg
+file: /courses/12-114-field-geology-i-fall-2005/ce2abff14028971bb16eec36194d5d08_lecture03_118jpg.jpg
 file_size: 35928
 file_type: image/jpeg
 image_metadata:

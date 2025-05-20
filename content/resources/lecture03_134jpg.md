@@ -4,7 +4,7 @@ description: In this image you are looking west at the basal detachment of the f
   and thrust belt where the fault is relatively parallel to the stratigraphy. In this
   image of the Keystone Thrust near Las Vegas, Cambrian limestones are thrust over
   Jurassic sandstones. Courtesy of Prof. Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/2d5666357753bfc759f594153f3d1be4_lecture03_134jpg.jpg
+file: /courses/12-114-field-geology-i-fall-2005/2d5666357753bfc759f594153f3d1be4_lecture03_134jpg.jpg
 file_size: 62481
 file_type: image/jpeg
 image_metadata:

@@ -6,7 +6,7 @@ description: In this slide we see the igneous rocks that intruded the edge of No
   same granitic materials. This granite suggests that the edge of south-western North
   America were subject to subduction following truncation and formed the beginnings
   of a Continental Andean arc sometime before 252ma. Image courtesy of Professor Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/94e7e3bf029890357154381bef4d7eec_lec3photo18.jpg
+file: /courses/12-114-field-geology-i-fall-2005/94e7e3bf029890357154381bef4d7eec_lec3photo18.jpg
 file_size: 77870
 file_type: image/jpeg
 image_metadata:

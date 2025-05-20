@@ -3,7 +3,7 @@ content_type: resource
 description: "This image is of the equivalent basal diamictite but in southern California\u2026\
   suggesting that the glaciation was laterally extensive (if not continuous) across\
   \ western North America. Image courtesy of Professor Burchfiel."
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/e06951bfc9ff64d61913967e70175201_lec2photo12.jpg
+file: /courses/12-114-field-geology-i-fall-2005/e06951bfc9ff64d61913967e70175201_lec2photo12.jpg
 file_size: 77991
 file_type: image/jpeg
 image_metadata:

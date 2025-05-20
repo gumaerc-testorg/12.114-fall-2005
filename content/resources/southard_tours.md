@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains geological information of MIT based on the tour
   of John Southard.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/136e6d91cb8c492a5adc397e3d6e46b9_southard_tours.pdf
+file: /courses/12-114-field-geology-i-fall-2005/136e6d91cb8c492a5adc397e3d6e46b9_southard_tours.pdf
 file_size: 546953
 file_type: application/pdf
 learning_resource_types: []

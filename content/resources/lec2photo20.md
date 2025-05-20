@@ -19,7 +19,7 @@ description: "The final part that we will discuss today has to do with the End D
   \ arcs are. Though the Antler Orogeny was due to the interaction of convergent activity\
   \ along the western edge of north America, it would not be the last. There are plenty\
   \ more to come! Image courtesy of Professor Burchfiel."
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/44314356f7676867e3cbe5bb26b5175d_lec2photo20.jpg
+file: /courses/12-114-field-geology-i-fall-2005/44314356f7676867e3cbe5bb26b5175d_lec2photo20.jpg
 file_size: 41012
 file_type: image/jpeg
 image_metadata:

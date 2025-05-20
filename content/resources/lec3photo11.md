@@ -12,7 +12,7 @@ description: In this image we see the layering of crystals that accumulate and p
   progressive trend toward cumulates that are more feldspar rich provides geologists
   with good right-way-up indicators, an important tool for geologists mapping in field
   areas with extensive deformation. Image courtesy of Professor Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/98f6393de2deb632dfbd65b69705a3ab_lec3photo11.jpg
+file: /courses/12-114-field-geology-i-fall-2005/98f6393de2deb632dfbd65b69705a3ab_lec3photo11.jpg
 file_size: 73501
 file_type: image/jpeg
 image_metadata:

@@ -4,7 +4,7 @@ description: In this image we see where early Pennsylvanian sediments were depos
   over the eroded interior of the mountains of the Antler Orogeny. This suggests that
   the topography created by the Antler was eroded to low relief that the Antler Orogeny
   was complete by the early Pennsylvanian. Image courtesy of Professor Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/1ea7268f99e809032e8880ce804bf4de_lec3photo6.jpg
+file: /courses/12-114-field-geology-i-fall-2005/1ea7268f99e809032e8880ce804bf4de_lec3photo6.jpg
 file_size: 74067
 file_type: image/jpeg
 image_metadata:

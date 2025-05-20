@@ -10,7 +10,7 @@ description: In this image we see the ashes and sediments associated with the la
   of material that we see is not the primary eruptive deposits but rather the materials
   eroded off the volcanic edifices. Thus they are mostly sedimentary deposits derived
   from volcanic materials. Image courtesy of Professor Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/44a4b3f13aeedad31f66ed51cee2a659_lec3photo8.jpg
+file: /courses/12-114-field-geology-i-fall-2005/44a4b3f13aeedad31f66ed51cee2a659_lec3photo8.jpg
 file_size: 80705
 file_type: image/jpeg
 image_metadata:

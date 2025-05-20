@@ -27,7 +27,7 @@ description: "This map depicts the latest Precambrian and the earliest Cambrian 
   \ An interesting thing about this passive margin is that we can\u2019t see a section\
   \ continuous across strike leading to the distal, extreme western edge of the margin.\
   \ Image courtesy of Professor Burchfiel."
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/cae71bf6578eddad458e006225530145_lec2photo7.jpg
+file: /courses/12-114-field-geology-i-fall-2005/cae71bf6578eddad458e006225530145_lec2photo7.jpg
 file_size: 40153
 file_type: image/jpeg
 image_metadata:
