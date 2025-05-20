@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains instructions on Smoothing a Line.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/e6964be1662cf149ab6fb3e73b7d2649_smooth_line.pdf
+file: /courses/12-114-field-geology-i-fall-2005/e6964be1662cf149ab6fb3e73b7d2649_smooth_line.pdf
 file_size: 1400282
 file_type: application/pdf
 learning_resource_types:

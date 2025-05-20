@@ -8,7 +8,7 @@ description: In a lot of geologic thinking, we too often expect compressional de
   northwest, commensurate with the interaction between the subducting oceanic crust
   and North America. The magnitude of the displacements on these structures is hotly
   debated to this day. Courtesy of Prof. Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/41248e5d2f8cb22edaa9f4d213b149a5_lecture03_141jpg.jpg
+file: /courses/12-114-field-geology-i-fall-2005/41248e5d2f8cb22edaa9f4d213b149a5_lecture03_141jpg.jpg
 file_size: 31837
 file_type: image/jpeg
 image_metadata:

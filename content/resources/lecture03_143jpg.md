@@ -26,7 +26,7 @@ description: "In this image we can see a change in the behavior of the Arc envir
   \ steeply dipping to shallowly dipping, but research in northern Argentina (where\
   \ there is also shallow-slab subduction), may shed light on this process. Courtesy\
   \ of Prof. Burchfiel."
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/fb078d8e24c35375129e57665303349e_lecture03_143jpg.jpg
+file: /courses/12-114-field-geology-i-fall-2005/fb078d8e24c35375129e57665303349e_lecture03_143jpg.jpg
 file_size: 47409
 file_type: image/jpeg
 image_metadata:

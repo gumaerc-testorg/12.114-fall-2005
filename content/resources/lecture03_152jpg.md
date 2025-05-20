@@ -11,7 +11,7 @@ description: This map view image of North America demonstrates that following th
   for the later basin and range extension. During later Cenozoic time right oblique
   shear between the Farallon and North American plates also contributed to the extension
   that created the Basin and Range Province. Courtesy of Prof. Burchfiel.
-file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/fee625c8802d010d940903f48ceab37d_lecture03_152jpg.jpg
+file: /courses/12-114-field-geology-i-fall-2005/fee625c8802d010d940903f48ceab37d_lecture03_152jpg.jpg
 file_size: 42915
 file_type: image/jpeg
 image_metadata:
