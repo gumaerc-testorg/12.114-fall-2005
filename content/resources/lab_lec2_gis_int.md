@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/90f1bf9a5688ba
 file_size: 104728
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

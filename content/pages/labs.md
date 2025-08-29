@@ -3,7 +3,7 @@ content_type: page
 description: Labs section contains exercises based on field mapping and Geographic
   Information Systems (GIS) applications.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 33778ae2-d8fd-bc16-c8a0-0c5223f9cd9a
