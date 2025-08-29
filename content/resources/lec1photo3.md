@@ -7,7 +7,7 @@ description: This is the map tent where we store the computers and the mapping e
   arctic tents and have served us well. We purchased them with gracious support from
   the Kaplan Foundation. There is a lot of wind in the desert, especially at night
   and, our old tents were knocked over frequently. Image courtesy of Professor Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/cfae833c082c87017c120fcaff26d078_lec1photo3.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/cfae833c082c87017c120fcaff26d078_lec1photo3.jpg
 file_size: 57895
 file_type: image/jpeg
 image_metadata:

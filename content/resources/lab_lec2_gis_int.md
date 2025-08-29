@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource is a supplement for lab 2.
-file: /courses/12-114-field-geology-i-fall-2005/90f1bf9a5688ba333f1a9d9e108eee35_lab_lec2_gis_int.pdf
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/90f1bf9a5688ba333f1a9d9e108eee35_lab_lec2_gis_int.pdf
 file_size: 104728
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

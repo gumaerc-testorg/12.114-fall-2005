@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains instructions on creating and editing a shapefile.
-file: /courses/12-114-field-geology-i-fall-2005/56105bf4bb16ccac0b8ff7397b340fb3_exercise1.pdf
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/56105bf4bb16ccac0b8ff7397b340fb3_exercise1.pdf
 file_size: 901065
 file_type: application/pdf
 learning_resource_types:
