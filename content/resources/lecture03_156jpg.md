@@ -5,7 +5,7 @@ description: In this final slide, you can see the present configuration of the w
   A hot-spot impinging on the crust has created the volcanism in the Snake River Plain
   that migrated eastward and presently drives deformation and high heat flow in and
   around Yellowstone. Courtesy of Prof. Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/123c8290de237dac5c308e6de21a3607_lecture03_156jpg.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/123c8290de237dac5c308e6de21a3607_lecture03_156jpg.jpg
 file_size: 47150
 file_type: image/jpeg
 image_metadata:

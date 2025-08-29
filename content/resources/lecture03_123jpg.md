@@ -4,7 +4,7 @@ description: This image shows some of the coherent oceanic sediments found in th
   accretionary wedge. These are deep-water silicious cherts. Again, in these rocks
   we find mixed exotic fossils including those of both North American and those of
   Asian affinity. Courtesy of Prof. Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/fb5c3d272f6c40c107bc879fae819549_lecture03_123jpg.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/fb5c3d272f6c40c107bc879fae819549_lecture03_123jpg.jpg
 file_size: 87859
 file_type: image/jpeg
 image_metadata:

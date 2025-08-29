@@ -13,7 +13,7 @@ description: This next image portrays the timing of different depositional event
   the Havallah basin east of the arc and west of the developing Antler Mountain belt.
   This suggests there was no arc collision during Antler time. Image courtesy of Professor
   Burchfiel.
-file: /courses/12-114-field-geology-i-fall-2005/1e00857a615993690c8ffebd19d67335_lec3photo16.jpg
+file: /ol-ocw-studio-app/courses/12-114-field-geology-i-fall-2005/1e00857a615993690c8ffebd19d67335_lec3photo16.jpg
 file_size: 26740
 file_type: image/jpeg
 image_metadata:
