@@ -8,27 +8,27 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 582a1aaa-9cb2-e546-3f07-6072de02e782
 ---
-[Archived Class Web sites](http://web.mit.edu/12.114/05_fall/www/)
+{{% resource_link "a79977f5-c79e-45c6-a17f-11234b77a8e0" "Archived Class Web sites" %}}
 
 ## Potential Local Field Trips (Locations with Good Exposure)
 
 ### Beavertail Point in RI
 
-[Beavertail Point Field Trip Photos](http://web.mit.edu/12.114/05_fall/www/images/2005.09.19_bevertail/index.html)
+{{% resource_link "7314e102-801b-4ac3-b5b1-5428169ac641" "Beavertail Point Field Trip Photos" %}}
 
-Beavertail State Park: [Official Web site](https://riparks.ri.gov/parks/beavertail-state-park)
+Beavertail State Park: {{% resource_link "796bba09-a8c2-40f1-83b9-e3d44a64999e" "Official Web site" %}}
 
-[Geology Information](https://bestcrystals.com/)
+{{% resource_link "0d38b9b0-0d2f-44d5-a28f-9de36be34d81" "Geology Information" %}}
 
 ### Nahant Beach Exposures
 
-[Northeastern University Geology Field Trip](https://cos.northeastern.edu/marinescience/outreach/field-trips-to-the-msc/)
+{{% resource_link "5e4dcc25-b15c-4251-a76e-10cc568f8943" "Northeastern University Geology Field Trip" %}}
 
-Nahant Beach: [Official Web site](https://essexheritage.org/attractions/lynnnahant-beach-reservation)
+Nahant Beach: {{% resource_link "39e4aa07-d849-4383-a572-199128b4034a" "Official Web site" %}}
 
 ### World's End
 
-World's End: [Official Web site](http://www.thetrustees.org/places-to-visit/south-of-boston/worlds-end.html)
+World's End: {{% resource_link "1df4eef8-1dd9-4a93-b827-ba2897906bae" "Official Web site" %}}
 
 Local Geology Tour by MIT Professor, John Southard ({{% resource_link "136e6d91-cb8c-492a-5adc-397e3d6e46b9" "PDF" %}})
 
@@ -36,6 +36,6 @@ Local Geology Tour by MIT Professor, John Southard ({{% resource_link "136e6d91-
 
 Wellesley University Trip to the Roxbury Conglomerate
 
-[City of Newton Geology Page](https://www.newtonma.gov/government/planning/boards-commissions/conservation-commission/public-education-and-involvement/geology-of-newton)
+{{% resource_link "d6964bac-f786-4575-9373-f07d9338b639" "City of Newton Geology Page" %}}
 
 Local Geology Tour by MIT Professor, John Southard ({{% resource_link "136e6d91-cb8c-492a-5adc-397e3d6e46b9" "PDF" %}})
